@@ -203,7 +203,7 @@ A ce stade, nous allons pouvoir exécuter le Pipeline que nous venons de créer,
 
 - **Etape 2 : Exécuter le Pipeline de données**
 
-1. Depuis l'interface du Pipeline, aller dans le menu Out**put
+1. Depuis l'interface du Pipeline, aller dans le menu Output
 
 2. Suivre les états d'exécution des activités (**Queued**, **Processed**, **Succeeded**)
 
