@@ -195,7 +195,7 @@ A ce stade, nous allons pouvoir exécuter le Pipeline que nous venons de créer,
 
     1. Depuis l'interface du Pipeline, cliquer sur le bouton **Valider**
     
-    2. Dans le volet de gauche, vous pourrez vérifier que le Pipeline est valide ou le cas échant les erreurs à corriger avant de pouvoir lancer l'exécution du Pipeline
+    2. Dans le volet de gauche, vous pourrez vérifier que le Pipeline est valide ou le cas échéant les erreurs à corriger avant de pouvoir lancer l'exécution du Pipeline
 
     3. Cliquer sur le bouton **Exécuter** si aucune erreur n'est détectée
 
