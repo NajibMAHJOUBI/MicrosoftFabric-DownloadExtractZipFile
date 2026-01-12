@@ -73,7 +73,7 @@ Afin de télécharger un fichier ZIP avec une approche No-Code, nous vous propos
 
  - **Etape 2 : Paramètre Général de l'activité Copy data**
 
-    1. Sélectionner l'icone de l'activité **Copy data** depuis la représentation schématique de workflow
+    1. Sélectionner l’icône de l'activité **Copy data** depuis la représentation schématique de workflow
 
     2. Dans le volet du bas, cliquer sur le menu **Général**
 
