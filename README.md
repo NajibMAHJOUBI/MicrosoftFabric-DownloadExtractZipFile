@@ -226,6 +226,6 @@ A présent, nous pouvons observer le contenu des fichiers qui ont été extraits
 ## Conclusion
 
 Dans cet article, nous avons montrer comment extraire et charger des données depuis des fichiers ZIP directement dans votre environnement Fabric. Dans l'approche proposée, un pipeline de données Fabric fournit les outils nécessaires pour traiter efficacement vos archives compressées avec une approche No-Code.
-Comments
+
 
 
